@@ -3,10 +3,10 @@
 
 ```
 bash
-git clone https://github.com/darkboss1bd/darkboss1bd_email_extractor_website.git
-cd darkboss1bd_email_extractor_website
+git clone https://github.com/darkboss1bd/darkboss1bd-ULTRA-Web-Recon-Tool.git
+cd darkboss1bd-ULTRA-Web-Recon-Tool
 pip install requests
-python darkboss1bd_email_extractor_website.py
+python darkboss1bd-ULTRA-Web-Recon-Tool.py
 ```
 
 
